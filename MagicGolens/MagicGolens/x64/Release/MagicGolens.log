@@ -1,0 +1,51 @@
+﻿  stdafx.cpp
+  Anjo.cpp
+  Ar.cpp
+  Areia.cpp
+  Arremessavel.cpp
+  Atirador.cpp
+  Bloco.cpp
+  Chefao.cpp
+  CristalGelo.cpp
+  Entidade.cpp
+  Espinho.cpp
+  Estalactite.cpp
+  Fase.cpp
+  FaseFogo.cpp
+  FaseGelo.cpp
+  FasePedra.cpp
+  Fogo.cpp
+  GerenciadorAtualizacoes.cpp
+  GerenciadorColisoes.cpp
+  GerenciadorEstado.cpp
+  GerenciadorGrafico.cpp
+  Compilando...
+  GerenciadorMapa.cpp
+  GolemGelo.cpp
+  GolemFogo.cpp
+  GolemPedra.cpp
+  Inimigo.cpp
+  Jogador.cpp
+  Jogo.cpp
+  Leaderboard.cpp
+  ListaEntidades.cpp
+  MagicGolens.cpp
+  Mago.cpp
+  Mapa.cpp
+  Menu.cpp
+  MenuFases.cpp
+  MenuInicial.cpp
+  MenuJogadores.cpp
+  MenuPause.cpp
+  Obstaculo.cpp
+  Orbe.cpp
+  Personagem.cpp
+  Compilando...
+  Porta.cpp
+  Textbox.cpp
+  Tile.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 962 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  MagicGolens.vcxproj -> C:\Users\Usuario\Desktop\MagicGolens\MagicGolens\Release\MagicGolens.exe

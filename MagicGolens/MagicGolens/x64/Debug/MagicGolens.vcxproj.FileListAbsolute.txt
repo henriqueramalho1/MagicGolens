@@ -1,0 +1,3 @@
+C:\Users\Usuario\Desktop\Jogo\MagicGolens\x64\Debug\MagicGolens.exe
+C:\Users\Usuario\Desktop\Jogo\MagicGolens\x64\Debug\MagicGolens.pdb
+C:\Users\felip\Desktop\ProjJogo\GameV6\MagicGolens\x64\Debug\MagicGolens.exe
